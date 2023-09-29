@@ -1,0 +1,14 @@
+.app{
+  background-image: url(/Fondo2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.app.Fondo1{
+  background-image: url(/Fondo1.jpg);
+}
+.app.Fondo2{
+  background-image: url(/Fondo2.jpg);
+}
+.app.Fondo3{
+  background-image: url(/Fondo3.jpg);
+}
